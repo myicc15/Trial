@@ -1,2 +1,0 @@
-# thelivinstones
-school project
